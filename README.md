@@ -20,7 +20,7 @@
 
 ### Connect With Me
 
-<a href="https://www.facebook.com/profile.php?id=100083074358299" target="_blank"><img src="https://raw.githubusercontent.com/nakulbhati/nakulbhati/master/contain/fb.png" alt="Facebook" width="30"></a>
+<a href="https://www.facebook.com/profile.php?id=100083074358299" target="_blank"><img src="https://raw.githubusercontent.com/nakulbhati/nakulbhati/master/contain/fb.png" alt="Facebook" width="30" style={{color:"white"}}></a>
 <a href="https://twitter.com/Thilina_S_WAK" target="_blank"><img src="https://raw.githubusercontent.com/nakulbhati/nakulbhati/master/contain/tw.png" alt="Twitter" width="30"></a>
 <a href="https://www.instagram.com/thilina_s_wanniarachchi/" target="_blank"><img src="https://raw.githubusercontent.com/nakulbhati/nakulbhati/master/contain/ig.png" alt="Instagram" width="30"></a>
 <a href="https://www.linkedin.com/in/thilina-s-wanniarachchi-50441b21a/" target="_blank"><img src="https://raw.githubusercontent.com/nakulbhati/nakulbhati/master/contain/in.png" alt="LinkedIn" width="30"></a>
