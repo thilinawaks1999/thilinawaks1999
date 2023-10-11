@@ -7,7 +7,7 @@
     I'm Thilina Sandakelum!
 </h3>
 
-![](https://komarev.com/ghpvc/?username=thilinawaks1999&color=green)
+![](https://komarev.com/ghpvc/?username=thilinawaks1999&color=green&style=flat-square)
 
 ---
 
