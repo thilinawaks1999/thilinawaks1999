@@ -7,7 +7,7 @@
     I'm Thilina Sandakelum!
 </h3>
 
-![](https://komarev.com/ghpvc/?username=thilinawaks1999&color=green&style=flat-square)
+[![](https://visitcount.itsvg.in/api?id=thilinawaks1999&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ---
 
@@ -29,4 +29,19 @@
 
 ---
 
+![](https://github-readme-streak-stats.herokuapp.com/?user=thilinawaks1999&theme=dark&hide_border=false)<br/>
+
+---
+
 <p align="left"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=thilinawaks1999&show_icons=true&theme=monokai&count_private=true" <p align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thilinawaks1999&theme=merko&layout=compact&hide_langs_below=1" /></p>
+
+---
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=thilinawaks1999&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+
+### 😂 Random Dev Meme
+<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+
