@@ -1,8 +1,8 @@
 name: Generate snake animation
 
 on:
-  schedule: # execute every 12 hours
-    - cron: "* */6 * * *"
+  schedule: # run every minute
+    - cron: "* * * * *"
 
   workflow_dispatch:
 
